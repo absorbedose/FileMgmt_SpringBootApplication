@@ -1,0 +1,6 @@
+com\absorbedose\filemgmt\property\FileStorageProperties.class
+com\absorbedose\filemgmt\reponse\FileUploadResponse.class
+com\absorbedose\filemgmt\exception\FileStorageException.class
+com\absorbedose\filemgmt\controller\FileController.class
+com\absorbedose\filemgmt\exception\MyFileNotFoundException.class
+com\absorbedose\filemgmt\service\FileStorageService.class
